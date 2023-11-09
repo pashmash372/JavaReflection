@@ -56,3 +56,11 @@ Java Reflections - Fields
 - we can write generic algorithms and libraries that operate on objects 
     - Whose type is not known until runtime
     - Dont even exist until the program is executed
+
+
+-----------------
+
+Reading Fields - JSON Serialization
+
+- Java Reflection - Fields use cases 
+- Practical example of an Object to Json Serializer
